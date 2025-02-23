@@ -1,0 +1,4 @@
+LAT,LONG,ADDRESS,CITY,POSTCODE
+52.0907,5.1214,Centraal Station,Utrecht,3511 NA
+52.3702,4.8952,Dam Square,Amsterdam,1012 JS
+51.9225,4.4792,Erasmus Bridge,Rotterdam,3011 BN
