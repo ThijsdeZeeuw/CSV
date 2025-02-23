@@ -1,7 +1,7 @@
-LAT	LONG	Adres	Locatie	Aantal gestart/afgerond	Aantal voortijdig beëindigd
-52.5207	5.4590	De Veste 15-58, 8231 JV, Lelystad	De Veste Lelystad	12	6
-52.5275	5.4918	Grevelingenstraat 145, 8226 LR, Lelystad	Grevelingenstraat Lelystad	10	5
-52.1625	5.3695	Puntenburgerlaan 93, 3812 CS, Amersfoort	Team Puntenburgerlaan Amersfoort	3	0
-52.3747	5.2203	Aagje Dekenstraat 29, 1321 SK, Almere	Aagje Dekenstraat Almere	1	1
-52.3693	5.2159	Blekerstraat 30, 1315 AH, Almere	Blekerstraat Almere	2	0
-52.3961	5.3081	Makassarweg 41a, 1335 HW, Almere	Makassarweg Almere	3	0
+LAT,LONG,Adres,Locatie,Aantal time-out periodes gestart en afgerond,Aantal time-out periodes voortijdig beëindigd
+52.5207,5.4590,"De Veste 15-58, 8231 JV, Lelystad","De Veste Lelystad",12,8
+52.5275,5.4918,"Grevelingenstraat 145, 8226 LR, Lelystad","Grevelingenstraat Lelystad",10,6
+52.1625,5.3695,"Puntenburgerlaan 93, 3812 CS, Amersfoort","Team Puntenburgerlaan Amersfoort",3,3
+52.3747,5.2203,"Aagje Dekenstraat 29, 1321 SK, Almere","Aagje Dekenstraat Almere",1,1
+52.3693,5.2159,"Blekerstraat 30, 1315 AH, Almere","Blekerstraat Almere",2,0
+52.3961,5.3081,"Makassarweg 41a, 1335 HW, Almere","Makassarweg Almere",3,0
