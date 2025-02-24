@@ -1,4 +1,4 @@
-LAT,LONG,ADDRESS,Locatie,Aantal time-out periodes gestart en afgerond,Aantal time-out periodes voortijdig beëindigd
+LAT,LONG,ADDRESS,Locatie, blue, red. 
 52.5207,5.4590,"De Veste 15-58, 8231 JV, Lelystad","De Veste Lelystad",12,6
 52.5275,5.4918,"Grevelingenstraat 145, 8226 LR, Lelystad","Grevelingenstraat Lelystad",10,6
 52.1625,5.3695,"Puntenburgerlaan 93, 3812 CS, Amersfoort","Team Puntenburgerlaan Amersfoort",3,0
